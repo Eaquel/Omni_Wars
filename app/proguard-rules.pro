@@ -1,0 +1,5 @@
+-keep class com.omni.wars.** { *; }
+-keep class com.google.firebase.** { *; }
+-keepattributes Signature, *Annotation*
+-dontwarn com.google.firebase.**
+-keepclasseswithmembernames class * { native <methods>; }

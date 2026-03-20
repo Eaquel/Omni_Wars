@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803753518892",
+    "firebase_url": "https://omni-wars-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "omni-wars",
+    "storage_bucket": "omni-wars.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803753518892:android:6b3d959b1ae1d9b1b6ee89",
+        "android_client_info": {
+          "package_name": "com.omni.wars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803753518892-ol3l20gedi8btakal5k8b4qgob1i9bbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omni.wars",
+            "certificate_hash": "0fdb03984a7f916066c5b28b428181a2ca9b4bc2"
+          }
+        },
+        {
+          "client_id": "803753518892-ng5db5cc6uc2j6fdu4g19ee3htm54nr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcfiezf7lteuTH9KxyecHJ3hOVfov1Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803753518892-ng5db5cc6uc2j6fdu4g19ee3htm54nr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
